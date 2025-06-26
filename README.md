@@ -11,10 +11,6 @@ A real-time hand-gesture-based math-solving application built with OpenCV, Media
 * 🪄 Gesture-based control for clearing the canvas or submitting the problem
 * 🖼️ Streamlit-based interactive GUI
 
-## 📸 Demo
-
-![demo-gif](https://github.com/roshug27/maths_with_gestures_using_ai_Adi/blob/main/demo.gif) *(Optional, if you have a GIF/video)*
-
 ## 🛠️ Technologies Used
 
 * Python
